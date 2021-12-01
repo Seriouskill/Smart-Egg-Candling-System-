@@ -1,0 +1,15 @@
+Steps: To Prepare Candling Unit.
+a.	Fix Battery
+b.	On switch to see if current flow through the candling unit.
+
+Steps:	To (SmartEgg) Mobile App Setup.
+a.	Install the System’s App
+b.	Launch App
+c.	Allow permission to use camera (and maybe, Storage)
+
+General guide to Do Candling:
+a)	Insert Egg into the Rubber Ring of the Candling Unit
+b)	Turn on switch to see a yellowish display of light through the egg shells.
+c)	Place the back camera of your phone on the Egg illuminated by the candling unit.
+d)	Wait for an average time of 4 seconds to see egg stage on a label on an android app interface.
+
